@@ -1,2 +1,4 @@
 # TicTacToeIdiot
-Nope
+
+Here will be amazing repo. 
+Work in progress.
